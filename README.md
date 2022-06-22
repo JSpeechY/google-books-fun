@@ -19,7 +19,7 @@ Search for books using the Google Books API!
 
 ---
 
-##Project Overview
+## Project Overview
 
 ### MVP
 
