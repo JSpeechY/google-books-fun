@@ -12,7 +12,7 @@ Search for books using the Google Books API!
 | ------------------------------- |
 | [MVP](#MVP) |
 | [Instructions](#Instructions) |
-| [Application Design (required)](#Application-Design-(required)) |
+| [Application Design](#Application-Design) |
 | [Styling](#Styling) |
 | [Screenshot](#Screenshot)       |
 | [Resources](#Resources) |
@@ -43,7 +43,7 @@ Search for books using the Google Books API!
 - Styling must use BEM, and each block should have its own SCSS file for styling.
 - Your palette should use variables for colors.
 
-### Application Design (required)
+### Application Design
 
 - You should separate DOM functions and non-DOM functions in different modules - Example: <https://github.com/chillcaw/el-salvador-code-alongs/tree/master/js-modules>
 - Write as many non-DOM functions as you can
