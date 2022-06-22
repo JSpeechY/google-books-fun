@@ -12,7 +12,7 @@ Search for books using the Google Books API!
 | ------------------------------- |
 | [MVP](#MVP) |
 | [Instructions](#Instructions) |
-| [Application Design](#Application-Design-(required)) |
+| [Application Design (required)](#Application-Design-(required)) |
 | [Styling](#Styling) |
 | [Screenshot](#Screenshot)       |
 | [Resources](#Resources) |
@@ -52,8 +52,6 @@ Search for books using the Google Books API!
 - Always parametrize and abstract large pieces of duplicate code.
 
 ### Screenshot
-
-Landing Page
 
 ![image](https://user-images.githubusercontent.com/102494925/174924245-9ed311f5-c5fe-407d-9a51-05f2d141ecdc.png)
 
